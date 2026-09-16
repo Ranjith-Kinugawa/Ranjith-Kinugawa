@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm a Software Engineer 👋
 
-<!--
-**Ranjith-Kinugawa/Ranjith-Kinugawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm a **Software Engineer** who enjoys turning ideas and real-world problems into reliable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 💻 Software Engineer with experience across multiple programming languages
+- 🌐 Full-stack & backend development
+- 🗄️ Database design and development
+- 🐳 Docker & Linux
+- ⚙️ Automation and system integration
+- 🔧 API and application development
+- 🚀 Always exploring better ways to build, optimize, and automate
+
+### 🛠️ Technologies
+
+**Languages:**
+Python · JavaScript · TypeScript · Java · PHP · SQL
+
+**Frameworks & Tools:**
+Laravel · React · Node.js · Docker · Git · Linux · VS Code
+
+**Databases:**
+PostgreSQL · SQLite · SQL
+
+### 🚀 What I Like
+
+> **Code → Solve → Build → Improve → Repeat**
+
+I enjoy learning new technologies, understanding how systems work, and building practical solutions that make work simpler and more efficient.
+
+### 📌 Featured Projects
+
+I'm continuously working on projects involving:
+
+- Software development
+- Automation
+- Web applications
+- Database systems
+- System integration
+- Developer tools
+
+### 📫 Connect With Me
+
+Feel free to explore my repositories and projects.
+
+Thanks for visiting! ⭐
