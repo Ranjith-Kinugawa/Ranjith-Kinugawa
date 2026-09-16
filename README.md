@@ -42,11 +42,6 @@ I'm continuously working on projects involving:
 - System integration
 - Developer tools
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjith-Kinugawa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith-Kinugawa&layout=compact&theme=tokyonight)
-
 ## 📫 Connect With Me
 
 Feel free to explore my repositories and projects. I'm always open to collaborating and discussing ideas!
